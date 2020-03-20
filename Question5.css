@@ -1,0 +1,22 @@
+.label {
+ width: 20%;
+}
+
+.value {
+    width: 80%;
+}
+
+.main-conatiner {
+    display: inline-flex;
+    width: 100%;
+}
+
+.div1 {
+    width: 33%;
+    padding: 4px;
+}
+
+.inline-details {
+    display: inline-flex;
+    width: 100%;
+}
